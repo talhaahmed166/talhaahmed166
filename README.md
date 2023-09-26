@@ -12,7 +12,9 @@
 
 <div style="line-height: 1.15">
     <b>Teaching Assistant - NUCES Lahore </b>-->
-    <p>Object Oriented Programming & Leadership</p>
+    <p>Object Oriented Programming</p>
+    <p>Data Structures</p>
+    <p>MySQL</p>
 </div>
 
 <div style="line-height: 1.15">
