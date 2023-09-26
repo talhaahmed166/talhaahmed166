@@ -47,7 +47,7 @@
 <h2 align="left">🌐 How to connect?</h2>
 <p align="left">
   <a href="mailto:talhaahmed4041@gmail.com"><img title="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="[linkedin.com/in/talha-ahmed-58a68b274](https://www.linkedin.com/in/talha-ahmed-58a68b274/)"><img title="Follow on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/feed/?trk=seo-authwall-base_sign-in-submit"><img title="Follow on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <!--<a href="https://twitter.com/harisbinrehan"><img title="Follow on Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>-->
   <a href="https://github.com/talhaahmed166"><img title="Follow on GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
      <a href="https://www.instagram.com/talharajput166/"><img title="Follow on Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
