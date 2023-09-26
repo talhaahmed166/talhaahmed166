@@ -1,7 +1,6 @@
 <a href="https://github.com/talhaahmed166"><img alt="views" title="Github views" src="https://komarev.com/ghpvc/?username=talhaahmed166&style=flat-square" width="125"/></a>
 
-<h1 align="left">Hey, I'm <a href="https://www.linkedin.com/in/talha-ahmed-58a68b274<hytjfji/a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50">
-
+<h1 align="left">Hey, I'm <a href="https://www.linkedin.com/in/talha-ahmed-58a68b274/">Talha Ahmed</a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50">
 
 
 
