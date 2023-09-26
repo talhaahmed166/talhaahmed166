@@ -4,21 +4,21 @@
 
 
 
-<!--## 📚 Academic Experience
-<div style="line-height: 1.15">
+## 📚 Covered Courses
+<!--<div style="line-height: 1.15">
     <b>Lab Instructor - NUCES Lahore </b>
     <p>Data Structures (September 2023 - present)</p>
 </div>
 
 <div style="line-height: 1.15">
-    <b>Teaching Assistant - NUCES Lahore </b>
+    <b>Teaching Assistant - NUCES Lahore </b>-->
     <p>Object Oriented Programming & Leadership</p>
 </div>
 
 <div style="line-height: 1.15">
     <b>National University of Computer and Emerging Sciences</b>
     <p>BS (Computer Science)</p>
-</div>-->
+</div>
 
 
 
