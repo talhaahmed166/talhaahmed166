@@ -16,7 +16,7 @@
 </div>
 
 <div style="line-height: 1.15">
-    <b>National University of Computer and Emerging Sciences</b>
+    <b>University of Lahore</b>
     <p>BS (Computer Science)</p>
 </div>
 
