@@ -5,7 +5,7 @@
 
 
 ## 📚 Covered Courses
-<div style="line-height: 1.15">
+<div style="line-height: 1">
     <p>Object Oriented Programming</p>
     <p>Data Structures</p>
     <p>MySQL</p>
@@ -23,7 +23,6 @@
 ## 💻 Tools & Technologies
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)](#)&nbsp;&nbsp;
-<!--[![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)](#)&nbsp;&nbsp;-->
 [![React](https://img.shields.io/badge/React-20232A?style=flat&logo=C%2B%2B)](#)&nbsp;&nbsp;
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=C%2B%2B)](#)&nbsp;&nbsp;
 [![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=C%2B%2B)](#)&nbsp;&nbsp;
