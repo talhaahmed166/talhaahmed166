@@ -4,7 +4,7 @@
 
 
 
-## 📚 Covered Courses=
+## 📚 Covered Courses
 <div style="line-height: 1.15">
     <p>Object Oriented Programming</p>
     <p>Data Structures</p>
