@@ -5,7 +5,7 @@
 
 
 ## 📚 Covered Courses
-<div style="line-height: 100">
+<div style="line-height: 1">
     <p>Object Oriented Programming</p>
     <p>Data Structures</p>
     <p>MySQL</p>
