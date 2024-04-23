@@ -5,7 +5,7 @@
 
 
 ## 📚 Covered Courses
-<!--<div style="line-height: 1.15">
+<div style="line-height: 1.15">
     <b>Lab Instructor - NUCES Lahore </b>
     <p>Data Structures (September 2023 - present)</p>
 </div>
